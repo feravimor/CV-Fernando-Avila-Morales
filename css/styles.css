@@ -1,0 +1,39 @@
+            body {
+                background-color: #FFFBEB;
+                font-family: "Helvetica";
+             
+            }
+
+            hr {
+                background-color: #FFFBEB;
+                border-style: dotted none none;
+                border-color: #251749;
+                border-width: 10px;
+                height: 2px;
+                width: 10%;
+
+            }
+            h1{
+                color:#251749;
+            }
+            h3 {
+                color: #495579;
+            }
+            ul {
+                color: #263159;
+            }
+            ol {
+                color: #263159;
+            
+            }
+            table {
+                color: #263159;
+            }
+            a:link {
+                color:black;
+            }
+            a:visited {
+                color:slategray;
+            }
+          
+        
